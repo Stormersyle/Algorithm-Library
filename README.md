@@ -1,2 +1,2 @@
 # Algorithm-Library
-Collection of my own implementation of various algorithms.
+A collection of my own implementation of various algorithms.
